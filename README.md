@@ -6,7 +6,7 @@
 ![Klipper](https://img.shields.io/badge/Firmware-Klipper-orange?style=flat-square)
 ![Modal Analysis](https://img.shields.io/badge/Analysis-Modal_Analysis-blue?style=flat-square)
 
-A visual portfolio of personal engineering work — 3D printed models and CAD designs, modal analysis results, and real-world repairs made possible by having a 3D printer at home.
+A visual portfolio of personal engineering work - 3D printed models and CAD designs, modal analysis results, and real-world repairs made possible by having a 3D printer at home.
 
 ---
 
@@ -14,7 +14,7 @@ A visual portfolio of personal engineering work — 3D printed models and CAD de
 
 ```
 3d-printing-portfolio/
-├── cad-models/        → SolidWorks & Fusion 360 designs with renders
+├── cad-models/        → Fusion 360 designs with renders
 ├── modal-analysis/    → Vibration analysis results, mode shapes, setups
 └── repairs/           → Before/after photos of parts repaired via 3D printing
 ```
